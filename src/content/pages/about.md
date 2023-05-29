@@ -57,4 +57,4 @@ A student eligible to study the B.Sc. CSIT course should collect and submit the 
 
 <hr>
 
-Some information referenced from : [edusanjal.com](https://edusanjal.com/course/bsc-computer-science-and-information-technology-bsc-csit-tribhuvan-university)
+Some information referenced from : [Iswori Education](https://www.iswori.com.np/2023/05/csit-course-in-nepal.html)
